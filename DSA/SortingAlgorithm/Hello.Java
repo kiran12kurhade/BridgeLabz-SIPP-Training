@@ -1,0 +1,7 @@
+
+public Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        System.out.println("Welcome to Object-Oriented Programming in Java.");
+    }
+}
